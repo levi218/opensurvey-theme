@@ -1,0 +1,26 @@
+.navbar-nav > li > a, .navbar-brand {
+    padding-top:5px !important; 
+    height: 133px;
+	text-align: center;
+}
+.navbar {min-height:30px !important;}
+.navbar-nav li a{
+    padding-top:15px !important;
+	margin-right: 5px;
+	border-bottom: 3px solid yellow;
+}
+.navbar-form{
+	padding-top:35px !important;
+}
+.navbar-nav li a img{
+    padding-top:10px !important;
+}
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
